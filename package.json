@@ -1,0 +1,11 @@
+{
+  "name": "eisenhower-to-do",
+  "version": "1.0.0",
+  "description": "Project aimed at refining JavaScript and React Skills. A To-Do List based on Eisenhowers Matrix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
